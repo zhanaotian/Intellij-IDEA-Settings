@@ -1,0 +1,404 @@
+<application>
+  <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
+    <group value="ChangeCourseInfo" is_action="true" action_type="-1" position="11">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <path value="Course Creator" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ChangeCourseInfo" is_action="true" action_type="-1" position="11">
+      <path value="root" />
+      <path value="Scope View Popup Menu" />
+      <path value="Project View Popup Menu" />
+      <path value="Course Creator" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="PushCourse" is_action="true" action_type="-1" position="10">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <path value="Course Creator" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="PushCourse" is_action="true" action_type="-1" position="10">
+      <path value="root" />
+      <path value="Scope View Popup Menu" />
+      <path value="Project View Popup Menu" />
+      <path value="Course Creator" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="PushLesson" is_action="true" action_type="-1" position="9">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <path value="Course Creator" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="PushLesson" is_action="true" action_type="-1" position="9">
+      <path value="root" />
+      <path value="Scope View Popup Menu" />
+      <path value="Project View Popup Menu" />
+      <path value="Course Creator" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="PushTask" is_action="true" action_type="-1" position="8">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <path value="Course Creator" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="PushTask" is_action="true" action_type="-1" position="8">
+      <path value="root" />
+      <path value="Scope View Popup Menu" />
+      <path value="Project View Popup Menu" />
+      <path value="Course Creator" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="PackCourse" is_action="true" action_type="-1" position="7">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <path value="Course Creator" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="PackCourse" is_action="true" action_type="-1" position="7">
+      <path value="root" />
+      <path value="Scope View Popup Menu" />
+      <path value="Project View Popup Menu" />
+      <path value="Course Creator" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Educational.Educator.DeleteAllPlaceholders" is_action="true" action_type="-1" position="6">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <path value="Answer Placeholder" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Educational.Educator.DeleteAnswerPlaceholder" is_action="true" action_type="-1" position="5">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <path value="Answer Placeholder" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="CC.NewStep" is_action="true" action_type="-1" position="5">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <path value="Course Creator" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="CC.NewStep" is_action="true" action_type="-1" position="5">
+      <path value="root" />
+      <path value="Scope View Popup Menu" />
+      <path value="Project View Popup Menu" />
+      <path value="Course Creator" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Educational.Educator.EditAnswerPlaceholder" is_action="true" action_type="-1" position="4">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <path value="Answer Placeholder" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="CC.SwitchSubtask" is_action="true" action_type="-1" position="4">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <path value="Course Creator" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="CC.SwitchSubtask" is_action="true" action_type="-1" position="4">
+      <path value="root" />
+      <path value="Scope View Popup Menu" />
+      <path value="Project View Popup Menu" />
+      <path value="Course Creator" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="PushCourse" is_action="true" action_type="-1" position="3">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="File" />
+      <path value="Course Creator" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Educational.Educator..DeactivatePlaceholder" is_action="true" action_type="-1" position="3">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <path value="Answer Placeholder" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="PushLesson" is_action="true" action_type="-1" position="2">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="File" />
+      <path value="Course Creator" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Educational.Educator..ActivatePlaceholder" is_action="true" action_type="-1" position="2">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <path value="Answer Placeholder" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ShowPreview" is_action="true" action_type="-1" position="2">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <path value="Course Creator" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ShowPreview" is_action="true" action_type="-1" position="2">
+      <path value="root" />
+      <path value="Scope View Popup Menu" />
+      <path value="Project View Popup Menu" />
+      <path value="Course Creator" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="PackCourse" is_action="true" action_type="-1" position="1">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="File" />
+      <path value="Course Creator" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Educational.Educator..MakeVisibleFromPrevSubtasks" is_action="true" action_type="-1" position="1">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <path value="Answer Placeholder" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="HideTaskFile" is_action="true" action_type="-1" position="1">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <path value="Course Creator" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="HideTaskFile" is_action="true" action_type="-1" position="1">
+      <path value="root" />
+      <path value="Scope View Popup Menu" />
+      <path value="Project View Popup Menu" />
+      <path value="Course Creator" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ChangeCourseInfo" is_action="true" action_type="-1" position="0">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="File" />
+      <path value="Course Creator" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Educational.Educator..HideFromPrevSubtasks" is_action="true" action_type="-1" position="0">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <path value="Answer Placeholder" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="AddTaskFile" is_action="true" action_type="-1" position="0">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <path value="Course Creator" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="AddTaskFile" is_action="true" action_type="-1" position="0">
+      <path value="root" />
+      <path value="Scope View Popup Menu" />
+      <path value="Project View Popup Menu" />
+      <path value="Course Creator" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Educational.Educator.ChangeCourseInfo" is_action="true" action_type="1" position="0">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="File" />
+      <path value="Course Creator" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="CC.HideFromPrevSubtasks" is_action="true" action_type="1" position="0">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <path value="Answer Placeholder" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Educational.Educator.AddTaskFile" is_action="true" action_type="1" position="0">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <path value="Course Creator" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Educational.Educator.AddTaskFile" is_action="true" action_type="1" position="0">
+      <path value="root" />
+      <path value="Scope View Popup Menu" />
+      <path value="Project View Popup Menu" />
+      <path value="Course Creator" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Educational.Educator.PackCourse" is_action="true" action_type="1" position="1">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="File" />
+      <path value="Course Creator" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="CC.MakeVisibleFromPrevSubtasks" is_action="true" action_type="1" position="1">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <path value="Answer Placeholder" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Educational.Educator.HideTaskFile" is_action="true" action_type="1" position="1">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <path value="Course Creator" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Educational.Educator.HideTaskFile" is_action="true" action_type="1" position="1">
+      <path value="root" />
+      <path value="Scope View Popup Menu" />
+      <path value="Project View Popup Menu" />
+      <path value="Course Creator" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Educational.Educator.PushLesson" is_action="true" action_type="1" position="2">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="File" />
+      <path value="Course Creator" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="CC.ActivatePlaceholder" is_action="true" action_type="1" position="2">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <path value="Answer Placeholder" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Educational.Educator.ShowPreview" is_action="true" action_type="1" position="2">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <path value="Course Creator" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Educational.Educator.ShowPreview" is_action="true" action_type="1" position="2">
+      <path value="root" />
+      <path value="Scope View Popup Menu" />
+      <path value="Project View Popup Menu" />
+      <path value="Course Creator" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Educational.Educator.PushCourse" is_action="true" action_type="1" position="3">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="File" />
+      <path value="Course Creator" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="CC.DeactivatePlaceholder" is_action="true" action_type="1" position="3">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <path value="Answer Placeholder" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="EditAnswerPlaceholder" is_action="true" action_type="1" position="4">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <path value="Answer Placeholder" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Educational.Educator.SwitchSubtask" is_action="true" action_type="1" position="4">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <path value="Course Creator" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Educational.Educator.SwitchSubtask" is_action="true" action_type="1" position="4">
+      <path value="root" />
+      <path value="Scope View Popup Menu" />
+      <path value="Project View Popup Menu" />
+      <path value="Course Creator" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="DeleteAnswerPlaceholder" is_action="true" action_type="1" position="5">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <path value="Answer Placeholder" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Educational.Educator.NewStep" is_action="true" action_type="1" position="5">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <path value="Course Creator" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Educational.Educator.NewStep" is_action="true" action_type="1" position="5">
+      <path value="root" />
+      <path value="Scope View Popup Menu" />
+      <path value="Project View Popup Menu" />
+      <path value="Course Creator" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="DeleteAllPlaceholders" is_action="true" action_type="1" position="6">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <path value="Answer Placeholder" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Educational.Educator.PackCourse" is_action="true" action_type="1" position="7">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <path value="Course Creator" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Educational.Educator.PackCourse" is_action="true" action_type="1" position="7">
+      <path value="root" />
+      <path value="Scope View Popup Menu" />
+      <path value="Project View Popup Menu" />
+      <path value="Course Creator" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Educational.Educator.PushTask" is_action="true" action_type="1" position="8">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <path value="Course Creator" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Educational.Educator.PushTask" is_action="true" action_type="1" position="8">
+      <path value="root" />
+      <path value="Scope View Popup Menu" />
+      <path value="Project View Popup Menu" />
+      <path value="Course Creator" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Educational.Educator.PushLesson" is_action="true" action_type="1" position="9">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <path value="Course Creator" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Educational.Educator.PushLesson" is_action="true" action_type="1" position="9">
+      <path value="root" />
+      <path value="Scope View Popup Menu" />
+      <path value="Project View Popup Menu" />
+      <path value="Course Creator" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Educational.Educator.PushCourse" is_action="true" action_type="1" position="10">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <path value="Course Creator" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Educational.Educator.PushCourse" is_action="true" action_type="1" position="10">
+      <path value="root" />
+      <path value="Scope View Popup Menu" />
+      <path value="Project View Popup Menu" />
+      <path value="Course Creator" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Educational.Educator.ChangeCourseInfo" is_action="true" action_type="1" position="11">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <path value="Course Creator" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Educational.Educator.ChangeCourseInfo" is_action="true" action_type="1" position="11">
+      <path value="root" />
+      <path value="Scope View Popup Menu" />
+      <path value="Project View Popup Menu" />
+      <path value="Course Creator" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+  </component>
+</application>
