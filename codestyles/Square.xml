@@ -13,6 +13,7 @@
       <option name="USE_RELATIVE_INDENTS" value="false" />
     </value>
   </option>
+  <option name="LAYOUT_STATIC_IMPORTS_SEPARATELY" value="false" />
   <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="999" />
   <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="999" />
   <option name="PACKAGES_TO_USE_IMPORT_ON_DEMAND">
@@ -22,7 +23,6 @@
     <value>
       <package name="" withSubpackages="true" static="false" />
       <emptyLine />
-      <package name="" withSubpackages="true" static="true" />
     </value>
   </option>
   <option name="RIGHT_MARGIN" value="100" />
@@ -70,6 +70,14 @@
   <JavaCodeStyleSettings>
     <option name="CLASS_NAMES_IN_JAVADOC" value="3" />
   </JavaCodeStyleSettings>
+  <JetCodeStyleSettings>
+    <option name="PACKAGES_TO_USE_STAR_IMPORTS">
+      <value>
+        <package name="java.util" withSubpackages="false" static="false" />
+        <package name="kotlinx.android.synthetic" withSubpackages="false" static="false" />
+      </value>
+    </option>
+  </JetCodeStyleSettings>
   <SqlCodeStyleSettings>
     <option name="ALIGN_AS_IN_SELECT_STATEMENT" value="false" />
     <option name="ALIGN_TYPE_IN_CREATE_STATEMENT" value="false" />
