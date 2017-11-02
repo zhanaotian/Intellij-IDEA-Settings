@@ -2,6 +2,9 @@
   <component name="MaterialThemeConfig">
     <option name="selectedTheme" value="LIGHTER" />
     <option name="isContrastMode" value="true" />
+    <option name="compactSidebar" value="true" />
+    <option name="tabsHeight" value="50" />
     <option name="defaultBackground" value="" />
+    <option name="upperCaseTabs" value="true" />
   </component>
 </application>
