@@ -18,14 +18,6 @@
           <option name="url" value="http://gitnfs.imooc.com/5584458/s108-5584458.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="git@github.com:zhanaotian/JavaAndKotlinObjectOriented.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/zhanaotian/JavaAndKotlinObjectOriented.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/JavaProjects" />
