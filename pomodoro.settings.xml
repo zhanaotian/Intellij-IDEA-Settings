@@ -1,0 +1,5 @@
+<application>
+  <component name="PomodoroSettings">
+    <option name="blockDuringBreak" value="true" />
+  </component>
+</application>
