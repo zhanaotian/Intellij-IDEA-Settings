@@ -1,5 +1,0 @@
-<keymap version="1" name="custom" parent="$default">
-  <action id="EditSource">
-    <mouse-shortcut keystroke="button1" />
-  </action>
-</keymap>
