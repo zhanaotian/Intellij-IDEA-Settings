@@ -1,5 +1,13 @@
 <application>
   <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="TypeScript" />
+      <blacklist language="Java">
+        <added pattern="java.lang.reflect.Array.newInstance(componentType,length)" />
+      </blacklist>
+      <blacklist language="Groovy" />
+      <blacklist language="Kotlin" />
+    </blacklists>
     <option id="SHOW_LOCAL_VARIABLE_HINT" value="true" />
   </component>
 </application>

@@ -1,7 +1,6 @@
 <application>
   <component name="PomodoroState">
-    <option startTime="startTime" value="1511683293109" />
-    <option lastUpdateTime="lastUpdateTime" value="1511683593329" />
-    <option pomodorosAmount="pomodorosAmount" value="5" />
+    <option lastUpdateTime="lastUpdateTime" value="1517166246558" />
+    <option pomodorosAmount="pomodorosAmount" value="6" />
   </component>
 </application>
